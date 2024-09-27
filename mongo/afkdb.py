@@ -1,7 +1,7 @@
 from plugins.utils.mongo import db
 
-HEHE = "6140468904"
-LOGGERS = "6140468904"
+HEHE = "7078181502"
+LOGGERS = "7078181502"
 afkdb = db.afk
 
 
