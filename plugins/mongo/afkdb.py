@@ -1,4 +1,4 @@
-from plugins.mongo import db
+from VIPMUSIC.plugins.mongo import db
 
 HEHE = "6140468904"
 LOGGERS = "6140468904"
