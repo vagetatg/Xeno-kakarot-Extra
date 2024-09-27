@@ -1,4 +1,4 @@
-from pl.utils.mongo import db
+from plugins.utils.mongo import db
 
 HEHE = "6140468904"
 LOGGERS = "6140468904"
