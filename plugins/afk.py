@@ -2,7 +2,7 @@ import time, re
 from pyrogram.enums import MessageEntityType
 from pyrogram import filters
 from pyrogram.types import Message
-from mongo.readable_time import get_readable_time
+from plugins.mongo.readable_time import get_readable_time
 from plugins.mongo.afkdb import add_afk, is_afk, remove_afk
 
 
